@@ -4,7 +4,7 @@
 	id		= "br.com.danielpinheiro"
 	version 	= "1.0.0">
 
-	<name>PriorityPhone</name>
+	<name>PhoneApp</name>
 
 	<description>
 		Template de testes para desenvolvimento com phonegap
