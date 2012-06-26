@@ -7,12 +7,12 @@
 	<name>PriorityPhone</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Template de testes para desenvolvimento com phonegap
 	</description>
 
 	<author href="https://github.com/danielpinheiro"
 		email="danielpinheiro.developer@gmail.com">
-		Andrew Lunny
+		Daniel Pinheiro
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
